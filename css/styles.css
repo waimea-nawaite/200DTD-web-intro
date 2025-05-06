@@ -1,0 +1,14 @@
+section#hero {
+    min-height: 20rem;
+    background-color: darkred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+section#hero h1 {
+    text-align: center;
+    font-size: 5rem;
+    color: white;
+}
